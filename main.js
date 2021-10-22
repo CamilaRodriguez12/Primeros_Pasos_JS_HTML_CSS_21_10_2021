@@ -1,3 +1,9 @@
+// Que es una variableURL
+// https://desarrolloweb.com/articulos/508.php
+
+// Tipos de datosURL
+// https://www.netinetidesign.com/post/tipos-de-datos-en-javascript/
+
 console.log("Hola Mundo :) "); // Para imprimir en la consola
 
 // Dato string
